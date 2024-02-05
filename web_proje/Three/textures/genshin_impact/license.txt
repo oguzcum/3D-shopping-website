@@ -1,0 +1,11 @@
+Model Information:
+* title:	Genshin impact - Xianyun
+* source:	https://sketchfab.com/3d-models/genshin-impact-xianyun-59e5e8b84bcb40eabbffc568b4ceb0b1
+* author:	X9_YT (https://sketchfab.com/X9_YT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Genshin impact - Xianyun" (https://sketchfab.com/3d-models/genshin-impact-xianyun-59e5e8b84bcb40eabbffc568b4ceb0b1) by X9_YT (https://sketchfab.com/X9_YT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
